@@ -1,0 +1,32 @@
+$x("")
+
+$("")
+
+
+Xpath:
+//tag[@attribute='attribute value']
+Ex: //input[@type='password']
+
+
+Find using index:
+(your xpath)[your index]
+(//button[@type='submit'])[2]
+
+
+Find using password attribute:
+//input[@type='password']
+
+
+Find using text:
+//button[.='Login']
+
+
+Find using text(2nd way):
+//button[text()='Login']
+
+
+
+
+
+TSHFVG5W3HKNCERP
+TSHFVG5W3HKNCERP
